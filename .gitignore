@@ -1,2 +1,4 @@
-
+public\WebApp\node_modules
 node_modules
+.vscode
+public\WebApp\dist

@@ -1,0 +1,18 @@
+1) What URL should be used to access your application?
+	=> http://localhost:4200/
+
+2) What libraries did you use to write your application?
+	=> Angular4 
+
+3) What influenced the design of your user interface?
+	=> Bootstrap is more famous for UI design because of its good capabilities, specially mobile support
+
+4) What steps did you take to make your application user friendly?
+	=> Tried to use user friendly components as well as light design using bootstrap
+
+5) What steps did you take to insure your application was secure?
+	=> Have added required validations at input screens
+	=> 
+
+6) What could be done to the front end or back end to make it more secure?
+	=> We can have token based authentication framework added at server side, to make a proper security at server side
