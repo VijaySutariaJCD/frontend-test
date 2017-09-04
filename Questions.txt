@@ -2,7 +2,7 @@
 	=> http://localhost:4200/
 
 2) What libraries did you use to write your application?
-	=> Angular4 
+	=> Angular4 , Bootstrap, Ng2-Smart-Table (Angular4 component for data table)
 
 3) What influenced the design of your user interface?
 	=> Bootstrap is more famous for UI design because of its good capabilities, specially mobile support
@@ -12,7 +12,9 @@
 
 5) What steps did you take to insure your application was secure?
 	=> Have added required validations at input screens
-	=> 
+	=> User will be redirected to login screen if not logged in and will try to hit any page directly 
+	=> When same files will be compiled for production, it will compress the given JS files so no body can read the source easily.
 
 6) What could be done to the front end or back end to make it more secure?
-	=> We can have token based authentication framework added at server side, to make a proper security at server side
+	=> We can have token based authentication framework added at server side, to make a proper authentication mechanism
+	
